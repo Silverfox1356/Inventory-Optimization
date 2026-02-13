@@ -202,7 +202,7 @@ Analysis of 109,500 transaction records across 2 years (2022-2023) reveals signi
 
 ## Methodology
 
-All findings in this document are derived directly from the 12 analytical SQL queries developed in Phase 4 of this project. 
+All findings in this document are derived directly from the 12 analytical SQL queries developed in Phase 3 of this project. 
 
 **Query Sources:**
 - Findings 1, 2, 9: Performance Metrics queries
