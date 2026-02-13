@@ -1,0 +1,5 @@
+region,stores_active,products_active,total_units_sold,total_revenue,avg_inventory,annual_turnover_ratio,stockout_incidents,stockout_rate_pct,revenue_rank
+East,5,30,2668910,136008453.70,146,246.92,1412,5.1,1
+West,5,30,2646987,134732631.60,146,246.91,1380,5.0,2
+North,5,30,2641716,134502260.13,146,247.36,1365,5.0,3
+South,5,30,2633704,134198938.35,146,247.75,1388,5.1,4
